@@ -4,7 +4,7 @@
   "description": "JavaScript application that generates an internal link report for any website by crawling each page of the site.",
   "main": "index.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node --no-warnings main.js",
     "test": "jest"
   },
   "author": "",
